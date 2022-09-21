@@ -10,12 +10,12 @@ I'm a 21 year old Software Engineer in Los Angeles, and have been programming si
 
 ```
                            Andre's Lines of Code                           
-                              Total: 820,683                               
-                               Files: 2,694                                
+                              Total: 822,813                               
+                               Files: 2,738                                
 800000 ┤                                                                   
 760000 ┤                                                                   
 720000 ┤  java                                                             
-680000 ┤ 590,349                                                           
+680000 ┤ 590,663                                                           
 640000 ┤                                                                   
 600000 ┤╭───────╮                                                          
 560000 ┤│       │                                                          
@@ -25,12 +25,12 @@ I'm a 21 year old Software Engineer in Los Angeles, and have been programming si
 400000 ┤│       │                                                          
 360000 ┤│       │                                                          
 320000 ┤│       │   js                                                     
-280000 ┤│       │ 189,485                                                  
+280000 ┤│       │ 190,737                                                  
 240000 ┤│       │                                                          
 200000 ┤│       │╭───────╮                                                 
 160000 ┤│       ││       │  css    html    php    py    scss    pug   jade 
-120000 ┤│       ││       │ 18,317  9,046  4,552  4,140  2,913  1,779  102  
+120000 ┤│       ││       │ 18,861  9,066  4,552  4,140  2,913  1,779  102  
 80000  ┤│       ││       │                                                 
 40000  ┤│       ││       │╭──────╮╭─────╮╭─────╮╭─────╮╭─────╮╭─────╮╭────╮
-Last updated: Mon Jun 13 2022 12:57:17 GMT-0700 (Pacific Daylight Time)
+Last updated: Wed Sep 21 2022 05:49:02 GMT-0700 (Pacific Daylight Time)
 ```
