@@ -1,6 +1,6 @@
 ### Hi, I'm Andre!
 
-I'm a 24-year-old Software Engineer based in the Bay Area, with a passion for programming that began in 2012. I started my professional journey in 2014, focusing on software engineering. Since 2015, I've also pursued an interest in cybersecurity, discovering vulnerabilities in platforms like PayPal, TikTok, Snapchat, and LastPass. I constantly work on a variety of personal projects but don't often use Git—feel free to ask me about them!
+I'm a software engineer based in the Bay Area, with a passion for programming that began in 2012. I started my professional journey in 2014, focusing on software engineering. Since 2015, I've also pursued an interest in cybersecurity, discovering vulnerabilities in platforms like PayPal, TikTok, Snapchat, and LastPass. I constantly work on a variety of personal projects but don't often use Git—feel free to ask me about them!
 
 | Websites  | Links | Contact |
 | ------------- | ------------- | ------- |
